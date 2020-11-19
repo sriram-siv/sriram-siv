@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   
   I am now searching for my first role as a developer where I look forward to continuing to learn as much as I can.
   
-  Get in contact with me on [LinkedIn](linkedin.com/in/sriram-sivarajah) 👋
+  Get in contact with me on [LinkedIn](https://linkedin.com/in/sriram-sivarajah) 👋
