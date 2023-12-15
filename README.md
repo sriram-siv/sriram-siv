@@ -1,24 +1,7 @@
-Hello, I am a junior software engineer based in London.
-
 <!--
 **sriram-siv/sriram-siv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-  I was inspired to switch careers to tech because I want to be part of its transformative impact on people's lives by providing tools to make the most of their skills and creativity.
+  Hello, I am a software engineer based in London.
   
-  I initially approached the change through self-driven learning, taking part in the online CS50 course from Harvard where I found the technical and theoretical aspects of software engineering very engaging. I built on this with the immersive course at General Assembly which introduced me to the industry standard technologies and gave me a great opportunity to produce interesting, modern projects.
-  
-  I am now searching for my first role as a developer where I look forward to continuing to learn as much as I can.
-  
-  Get in contact with me on [LinkedIn](https://linkedin.com/in/sriram-sivarajah) 👋
+  Get in contact with me on [LinkedIn](https://linkedin.com/in/sriram-sivarajah)
